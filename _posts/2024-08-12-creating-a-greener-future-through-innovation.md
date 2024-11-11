@@ -3,8 +3,8 @@ layout: post
 title: Creating a Greener Future Through Innovation
 description: As environmental concerns grow, sustainable design is becoming increasingly important. This article examines the principles of  design, the materials and methods used.
 date: 2024-08-12 15:01:35 +0300
-author: richard
-image: '/images/06.jpg'
+author: abram
+image: '/images/102.jpg'
 video_embed: https://www.youtube.com/embed/TumrA0XsX0A?si=CpIToREi6CEh1KFu
 tags: [Design]
 featured: true
@@ -35,7 +35,7 @@ These innovations are making urban living not only more sustainable but also mor
 
 The rise of smart cities is another exciting development in the pursuit of a greener future. Urban areas are increasingly integrating technology to manage resources more efficiently. Smart grids, energy-efficient buildings, and intelligent waste management systems are all contributing to the reduction of a city’s carbon footprint. Green spaces, rooftop gardens, and urban forests help combat air pollution, promote biodiversity, and improve the quality of life for city dwellers.
 
-![Workspace]({{site.baseurl}}/images/06-2.jpg#wide)
+![Workspace](images/102.jpg#wide)
 *Minimalism and the workspace*
 
 While mindfulness can be practiced in daily activities, meditation is a powerful tool for deepening your mindfulness practice. Even just 5-10 minutes of meditation a day can help quiet the mind and create a space for reflection. Meditation involves focusing on your breath, bodily sensations, or a mantra, allowing you to become more attuned to your thoughts and emotions. Over time, this practice strengthens your ability to remain present and centered, even during stressful moments.
