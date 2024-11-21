@@ -1,14 +1,14 @@
 #-------------------------------
 # Site Settings
-title: Clair de Plume
+title: Whispers in Ink
 description: |
-  Clair de Plume = "Light of the Pen" in French.
-  It is a space where the thoughts, reflections, and inspirations of Aman Gudluri come to life.
-  Like the gentle glow of moonlight illuminating a quiet path, this blog aims to shed light on ideas that might otherwise remain in the shadows.
-  Here, I delve into a tapestry of musings, exploring topics that captivate and challenge, uplift and inform.
-  Clair de Plume isn’t just a collection of words; it’s a journey through the mind of a writer who seeks to uncover meaning and spark curiosity in every line.
-logo: # "/images/logo.png"
-logo_dark:
+  Whispers in Ink
+  A gentle symphony of thoughts, feelings, and reflections etched onto the canvas of time.
+  Whispers in Ink is where fleeting ideas find permanence and untold stories come to life.
+  Here, every word carries the weight of meaning, offering a window into the soul, a pause for thought, and a spark for imagination.
+  This is a space where silence speaks and ink whispers truths untamed.
+logo: "/images/logo.png"
+logo_dark: # If you want to add a logo for a dark theme.
 color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 #-------------------------------
@@ -17,20 +17,20 @@ menu_settings:
   menu_items:
     - title: "Home"
       url: "/"
-    - title: "Latest"
+    - title: "Journal"
       url: "/latest/"
-    - title: "Authors"
-      url: "/authors/"
-    - title: "Resources"
+    # - title: "Authors"
+      # url: "/authors/"
+    - title: "Explore"
       submenu:
-      - url: "/videos/"
-        title: "Videos"
-      - url: "/featured/"
-        title: "Featured"
-      - url: "/elements/"
-        title: "Elements"
       - url: "/tags/"
         title: "Topics"
+      - url: "/featured/"
+        title: "Featured"
+      # - url: "/videos/"
+        # title: "Videos"
+      # - url: "/elements/"
+        # title: "Elements"
     - title: "About"
       url: "/about/"
 
@@ -45,11 +45,11 @@ cta_button:
 # Hero Settings
 hero:
   enable: true
-  hero_title: Stories, Journeys, and Ideas for the Creatively Curious
-  hero_description: Join us on a journey where every post brings a fresh perspective. This blog is for those who are driven by curiosity and a desire to learn.
+  hero_title: Whispers in Ink
+  hero_description: Step into a journey of discovery - where curiosity leads, and insights unfold for those seeking depth and meaning.
 
 hero_authors:
-  enable: true
+  enable: false # IM THE ONLY AUTHOR, LOL
   hero_authors_description: Meet our talented team
 
 
@@ -65,7 +65,7 @@ blog:
 recommended:
   enable: true
   recommended_title: Recommended
-  recommended_tag: "Lifestyle"
+  recommended_tag: "Rumination"
 
 
 #-------------------------------
@@ -73,14 +73,14 @@ recommended:
 about:
   enable: true
   about_title: Hello, I’m Aman
-  about_subtitle: I’m a thinker and storyteller with a passion for exploring the intersection of creativity and technology
+  about_subtitle: I’m a thinker and storyteller with a passion for exploring life’s deeper questions, blending philosophy with creativity to seek meaning in the modern world.
   about_description: |
-    Aman’s mission is rooted in the belief that creativity is a catalyst for connection and change. Through her blog, she seeks to bridge the gap between design, technology, and lifestyle, offering a space where ideas can flourish and innovation can thrive.
-
-    It’s a journey through the thoughts and experiences that shape her world. Aman's work is driven by a desire to challenge the ordinary and to push the boundaries of what’s possible. She sees every project as an opportunity to learn, grow, and inspire others to do the same. This blog is more than just a collection of posts.
-  about_image: "/images/02.jpg"
-  about_image_alt: Daryl Mercer
-  about_button_text: Meet our team
+    My journey is guided by a belief that true understanding can transform how we see ourselves and others. Through this space, I bridge the realms of thought, art, and technology, offering reflections that inspire introspection and cultivate curiosity.
+    
+    This blog is more than words; it’s a journey into ideas that challenge the ordinary, expand the boundaries of what we perceive, and invite us to engage with life more profoundly. Each post is an invitation to pause, reflect, and grow, in a space where insight and discovery intertwine.
+  about_image: "/images/aman.jpg"
+  about_image_alt: Aman Gudluri
+  about_button_text: My story
   about_button_link: "/about/"
 
 
@@ -94,8 +94,8 @@ authors:
 #-------------------------------
 # Newsletter Settings
 mailchimp:
-  enable: false
-  mailchimp_title: Stay Inspired Weekly. Your Friendly Dose of Tips & Insights!
+  enable: true
+  mailchimp_title: Stay Inspired Weekly. Your Friendly Dose of Insights!
   mailchimp_description: Every Sunday, I deliver actionable tips for enhancing productivity, practical life advice, and top-notch insights gathered from various sources, right to your email inbox.
   mailchimp_identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
   mailchimp_input_text: Your email address
@@ -126,11 +126,12 @@ social:
 contact:
   form_id: amangudluri@yahoo.com # Add your form_id
   title: Contact Us
-  description: Clair de Plume comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free.
+  description: I'd love to hear from you!
   button_text: Send now
 
 # NOTE
-# Nomod theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+# Nomod theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. 
+# Also, you can easily switch to another service if you want.
 
 
 #-------------------------------

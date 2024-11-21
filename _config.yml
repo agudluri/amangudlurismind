@@ -1,8 +1,7 @@
 #-------------------------------
 # General Site Settings
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/amangudlurismind" # Keep this empty for running locally. Make it "/amangudlurismind" for it to run on Github.
 url: "https://agudluri.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-
 
 #-------------------------------
 # Build Settings
