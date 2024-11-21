@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-baseurl: "/amangudlurismind" # Keep this empty for running locally. Make it "/amangudlurismind" for it to run on Github.
+baseurl: "" # Keep this empty for running locally. Make it "/amangudlurismind" for it to run on Github.
 url: "https://agudluri.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
